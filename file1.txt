@@ -8,3 +8,4 @@ something new
 before ammends
 after hotfix
 there will be a conflict here
+there will be another conflict here
