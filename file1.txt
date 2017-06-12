@@ -21,4 +21,4 @@ changes on local\master
 the quick brown fox jumps over the lazy dog
 to be added for branchA
 to be added for branchB
-
+something only in branchA2
